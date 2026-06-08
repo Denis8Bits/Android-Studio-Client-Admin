@@ -47,4 +47,11 @@ export const SHADOWS = {
         elevation: 5,
     },
 };
+
+export default {
+    COLORS,
+    SPACING,
+    FONT_SIZE,
+    SHADOWS,
+};
  
